@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare VGEC - Civic Campus Governance Portal",
+  "description": "Official campus governance and issue resolution portal for VGEC Chandkheda, Gujarat. Report campus problems, support with peer consensus, and track transparently until resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
