@@ -1,14 +1,6 @@
 <div align="center">
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/695f4b3b-1d2c-44c0-88b4-692047574ea8
-
-## Run Locally
-
 **Prerequisites:**  Node.js
 
 
